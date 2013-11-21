@@ -1,0 +1,26 @@
+{
+  "name": "astronaut",
+  "version": "0.0.0",
+  "description": "workshopper for ast manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/astronaut.git"
+  },
+  "keywords": [
+    "ast",
+    "workshop",
+    "nodeschool"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/astronaut/issues"
+  },
+  "dependencies": {
+    "workshopper": "~0.4.0"
+  }
+}
