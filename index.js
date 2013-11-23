@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var workshopper = require('workshopper')
 var path = require('path')
 

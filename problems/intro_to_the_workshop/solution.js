@@ -1,17 +1,1 @@
-var inputs = [
-  ['space-y', 'far out'],
-  ['groovy', 'froody'],
-  ['fun', 'accessible']
-];
-
-var choice = function (lst) {
-  return lst[Math.floor(Math.random() * lst.length)];
-};
-
-module.exports = function () {
-  return {
-    args: choice(inputs),
-    long: true,
-    stdin: null    
-  };
-};
+console.log("ASTs are %s and %s.", process.argv[2], process.argv[3]);
