@@ -6,4 +6,4 @@ workshopper({
   , title: 'MANIPULATE THE AST TO GET SUPERPOWERS'
   , appDir: __dirname
   , helpFile: path.join(__dirname, 'help.txt')
-})
+}).init()
