@@ -15,6 +15,9 @@
     "workshop",
     "nodeschool"
   ],
+  "bin": {
+    "astronaut": "./index.js"
+  },
   "author": "Chris Dickinson <chris@neversaw.us>",
   "license": "MIT",
   "bugs": {
